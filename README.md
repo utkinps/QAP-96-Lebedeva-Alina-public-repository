@@ -1,2 +1,3 @@
 # QAP-96-Lebedeva-Alina-public-repository
-This is a repository for my QAP course at Skillfactory.
+Hi guys! 
+Here's my very first GitHub repository to perform exercises from Module 9 of the QAP course at Skillfactory.
